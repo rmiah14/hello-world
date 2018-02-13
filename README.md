@@ -1,4 +1,4 @@
 # hello-world
-My first git repository 
+My first (remove)
 
-So this is my first commit. Hopefully get the gist of this quickly
+I want to change this further by adding and removing content (add)
